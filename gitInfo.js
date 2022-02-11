@@ -9,7 +9,7 @@
     It should be a string containing your best definition of what Git is.
 */
 
-//CODE HERE
+let gitDefinition = ("git is a software that allows you to create code locally and has the capacity to upload the files to other repositories")
 
 //////////////////PROBLEM 2////////////////////
 /*
@@ -17,7 +17,7 @@
     It should be a string containing your best definition of what GitHub is.
 */
 
-//CODE HERE
+let gitHubDefinition = ("github is a cloud repository that allows you to share code with others nonlocally and is used to build a portfolio")
 
 //////////////////PROBLEM 3////////////////////
 /*
@@ -25,7 +25,7 @@
     It should be a string containing your best definition of what 'git init' does.
 */
 
-//CODE HERE
+let gitInitDefinition = ("git init allows you initialize files related to git which allows you to store your files.")
 
 //////////////////PROBLEM 4////////////////////
 /*
@@ -33,7 +33,7 @@
     It should be a string containing your best definition of what 'git clone' does.
 */
 
-//CODE HERE
+let gitCloneDefinition = ('git clone allows you to access and copy files from a repository')
 
 //////////////////PROBLEM 5////////////////////
 /*
@@ -41,7 +41,7 @@
     It should be a string containing your best definition of what 'git status' does.
 */
 
-//CODE HERE
+let gitStatusDefinition = ("allows you to make sure all file transfers and git functions were properly executed")
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -52,8 +52,8 @@
     It should be a string containing the code to add all files.
 */
 
-//CODE HERE
-
+let gitAddDefinition = ("allows you to save files that are stored in your ram and also allows you to run the files in your terminal")
+let gitAddCode = ("git add .")
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
@@ -63,7 +63,7 @@
     It should be a string containing the code to commit using the message "initial commit".
 */
 
-//CODE HERE
+let gitCommitCode = ("git commit -m ")
 
 
 //////////////////PROBLEM 8////////////////////
@@ -72,4 +72,4 @@
     It should be a string containing your best definition of what 'git push' does.
 */
 
-//CODE HERE
+let gitPushDefinition = "git push allows you to upload files to your git files instead of taking up ram"
