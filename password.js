@@ -24,25 +24,5 @@ reader.question( function(input){
     console.log(input.length)
 
 
-
-
-
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-);
+  reader.close()
+} 
